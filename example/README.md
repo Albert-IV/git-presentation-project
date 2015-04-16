@@ -1,8 +1,7 @@
-# This is a heading!  We'll change this here in a second...
-
-This is a line of extraneous text.
+# Very Important Title
 
 This isn't a line of extraneous text.
 
-Batman!
+Batman! Spiderman!
 (Didn't expect that, did you?!)
+(I did.)
